@@ -1,0 +1,14 @@
+{
+    "name": "mage-eye/sdk",
+    "autoload": {
+        "psr-4": {
+            "MageEye\\Sdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerke Combee",
+            "email": "jerke1988@gmail.com"
+        }
+    ]
+}
